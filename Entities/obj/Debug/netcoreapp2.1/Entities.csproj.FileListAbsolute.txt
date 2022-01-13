@@ -1,0 +1,37 @@
+C:\Users\Ebrahimi\source\repos\MyApi\Entities\bin\Debug\netcoreapp2.1\Entities.deps.json
+C:\Users\Ebrahimi\source\repos\MyApi\Entities\bin\Debug\netcoreapp2.1\Entities.dll
+C:\Users\Ebrahimi\source\repos\MyApi\Entities\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\Users\Ebrahimi\source\repos\MyApi\Entities\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\Ebrahimi\source\repos\MyApi\Entities\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Ebrahimi\source\repos\MyApi\Entities\obj\Debug\netcoreapp2.1\Entities.csprojAssemblyReference.cache
+C:\Users\Ebrahimi\source\repos\MyApi\Entities\obj\Debug\netcoreapp2.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ebrahimi\source\repos\MyApi\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Ebrahimi\source\repos\MyApi\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfo.cs
+C:\Users\Ebrahimi\source\repos\MyApi\Entities\obj\Debug\netcoreapp2.1\Entities.csproj.CopyComplete
+C:\Users\Ebrahimi\source\repos\MyApi\Entities\obj\Debug\netcoreapp2.1\Entities.dll
+C:\Users\Ebrahimi\source\repos\MyApi\Entities\obj\Debug\netcoreapp2.1\Entities.pdb
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\Entities\bin\Debug\netcoreapp2.1\Entities.deps.json
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\Entities\bin\Debug\netcoreapp2.1\Entities.dll
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\Entities\bin\Debug\netcoreapp2.1\Entities.pdb
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\Entities\bin\Debug\netcoreapp2.1\Common.dll
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\Entities\bin\Debug\netcoreapp2.1\Common.pdb
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\Entities\obj\Debug\netcoreapp2.1\Entities.csprojAssemblyReference.cache
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\Entities\obj\Debug\netcoreapp2.1\Entities.csproj.CoreCompileInputs.cache
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfoInputs.cache
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfo.cs
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\Entities\obj\Debug\netcoreapp2.1\Entities.csproj.CopyComplete
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\Entities\obj\Debug\netcoreapp2.1\Entities.dll
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\Entities\obj\Debug\netcoreapp2.1\Entities.pdb
+F:\Amozesh\Project\Entities\bin\Debug\netcoreapp2.1\Entities.deps.json
+F:\Amozesh\Project\Entities\bin\Debug\netcoreapp2.1\Entities.dll
+F:\Amozesh\Project\Entities\bin\Debug\netcoreapp2.1\Entities.pdb
+F:\Amozesh\Project\Entities\bin\Debug\netcoreapp2.1\Common.dll
+F:\Amozesh\Project\Entities\bin\Debug\netcoreapp2.1\Common.pdb
+F:\Amozesh\Project\Entities\obj\Debug\netcoreapp2.1\Entities.csproj.CoreCompileInputs.cache
+F:\Amozesh\Project\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfoInputs.cache
+F:\Amozesh\Project\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfo.cs
+F:\Amozesh\Project\Entities\obj\Debug\netcoreapp2.1\Entities.csproj.CopyComplete
+F:\Amozesh\Project\Entities\obj\Debug\netcoreapp2.1\Entities.dll
+F:\Amozesh\Project\Entities\obj\Debug\netcoreapp2.1\Entities.pdb
+F:\Amozesh\Project\Entities\obj\Debug\netcoreapp2.1\Entities.csproj.AssemblyReference.cache
+F:\Amozesh\Project\Entities\obj\Debug\netcoreapp2.1\Entities.GeneratedMSBuildEditorConfig.editorconfig

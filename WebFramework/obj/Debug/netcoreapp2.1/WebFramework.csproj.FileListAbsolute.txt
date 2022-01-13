@@ -1,0 +1,55 @@
+C:\Users\Ebrahimi\source\repos\MyApi\WebFramework\bin\Debug\netcoreapp2.1\WebFramework.deps.json
+C:\Users\Ebrahimi\source\repos\MyApi\WebFramework\bin\Debug\netcoreapp2.1\WebFramework.dll
+C:\Users\Ebrahimi\source\repos\MyApi\WebFramework\bin\Debug\netcoreapp2.1\WebFramework.pdb
+C:\Users\Ebrahimi\source\repos\MyApi\WebFramework\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\Ebrahimi\source\repos\MyApi\WebFramework\bin\Debug\netcoreapp2.1\Data.dll
+C:\Users\Ebrahimi\source\repos\MyApi\WebFramework\bin\Debug\netcoreapp2.1\Entities.dll
+C:\Users\Ebrahimi\source\repos\MyApi\WebFramework\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\Ebrahimi\source\repos\MyApi\WebFramework\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\Ebrahimi\source\repos\MyApi\WebFramework\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Ebrahimi\source\repos\MyApi\WebFramework\bin\Debug\netcoreapp2.1\Data.pdb
+C:\Users\Ebrahimi\source\repos\MyApi\WebFramework\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\Users\Ebrahimi\source\repos\MyApi\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.csprojAssemblyReference.cache
+C:\Users\Ebrahimi\source\repos\MyApi\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.csproj.CoreCompileInputs.cache
+C:\Users\Ebrahimi\source\repos\MyApi\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.AssemblyInfoInputs.cache
+C:\Users\Ebrahimi\source\repos\MyApi\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.AssemblyInfo.cs
+C:\Users\Ebrahimi\source\repos\MyApi\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.csproj.CopyComplete
+C:\Users\Ebrahimi\source\repos\MyApi\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.dll
+C:\Users\Ebrahimi\source\repos\MyApi\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.pdb
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\WebFramework\bin\Debug\netcoreapp2.1\WebFramework.deps.json
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\WebFramework\bin\Debug\netcoreapp2.1\WebFramework.dll
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\WebFramework\bin\Debug\netcoreapp2.1\WebFramework.pdb
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\WebFramework\bin\Debug\netcoreapp2.1\Common.dll
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\WebFramework\bin\Debug\netcoreapp2.1\Data.dll
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\WebFramework\bin\Debug\netcoreapp2.1\Entities.dll
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\WebFramework\bin\Debug\netcoreapp2.1\Services.dll
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\WebFramework\bin\Debug\netcoreapp2.1\Services.pdb
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\WebFramework\bin\Debug\netcoreapp2.1\Common.pdb
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\WebFramework\bin\Debug\netcoreapp2.1\Data.pdb
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\WebFramework\bin\Debug\netcoreapp2.1\Entities.pdb
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.csprojAssemblyReference.cache
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.csproj.CoreCompileInputs.cache
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.AssemblyInfoInputs.cache
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.AssemblyInfo.cs
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.csproj.CopyComplete
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.dll
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.pdb
+F:\Amozesh\Project\WebFramework\bin\Debug\netcoreapp2.1\WebFramework.deps.json
+F:\Amozesh\Project\WebFramework\bin\Debug\netcoreapp2.1\WebFramework.dll
+F:\Amozesh\Project\WebFramework\bin\Debug\netcoreapp2.1\WebFramework.pdb
+F:\Amozesh\Project\WebFramework\bin\Debug\netcoreapp2.1\Common.dll
+F:\Amozesh\Project\WebFramework\bin\Debug\netcoreapp2.1\Data.dll
+F:\Amozesh\Project\WebFramework\bin\Debug\netcoreapp2.1\Entities.dll
+F:\Amozesh\Project\WebFramework\bin\Debug\netcoreapp2.1\Services.dll
+F:\Amozesh\Project\WebFramework\bin\Debug\netcoreapp2.1\Services.pdb
+F:\Amozesh\Project\WebFramework\bin\Debug\netcoreapp2.1\Common.pdb
+F:\Amozesh\Project\WebFramework\bin\Debug\netcoreapp2.1\Data.pdb
+F:\Amozesh\Project\WebFramework\bin\Debug\netcoreapp2.1\Entities.pdb
+F:\Amozesh\Project\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.csproj.CoreCompileInputs.cache
+F:\Amozesh\Project\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.AssemblyInfoInputs.cache
+F:\Amozesh\Project\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.AssemblyInfo.cs
+F:\Amozesh\Project\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.csproj.CopyComplete
+F:\Amozesh\Project\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.dll
+F:\Amozesh\Project\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.pdb
+F:\Amozesh\Project\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.csproj.AssemblyReference.cache
+F:\Amozesh\Project\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.GeneratedMSBuildEditorConfig.editorconfig

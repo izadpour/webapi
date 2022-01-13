@@ -1,0 +1,28 @@
+C:\Users\Ebrahimi\source\repos\MyApi\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+C:\Users\Ebrahimi\source\repos\MyApi\Common\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\Ebrahimi\source\repos\MyApi\Common\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Ebrahimi\source\repos\MyApi\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Ebrahimi\source\repos\MyApi\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+C:\Users\Ebrahimi\source\repos\MyApi\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+C:\Users\Ebrahimi\source\repos\MyApi\Common\obj\Debug\netcoreapp2.1\Common.dll
+C:\Users\Ebrahimi\source\repos\MyApi\Common\obj\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Ebrahimi\source\repos\MyApi\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\Common\bin\Debug\netcoreapp2.1\Common.dll
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\Common\bin\Debug\netcoreapp2.1\Common.pdb
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\Common\obj\Debug\netcoreapp2.1\Common.dll
+F:\Amozesh\beyamooz\web api\AspNetCore-WebApi_Part3_569doE5\19- Swagger Part3\Project\Common\obj\Debug\netcoreapp2.1\Common.pdb
+F:\Amozesh\Project\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+F:\Amozesh\Project\Common\bin\Debug\netcoreapp2.1\Common.dll
+F:\Amozesh\Project\Common\bin\Debug\netcoreapp2.1\Common.pdb
+F:\Amozesh\Project\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+F:\Amozesh\Project\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+F:\Amozesh\Project\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+F:\Amozesh\Project\Common\obj\Debug\netcoreapp2.1\Common.dll
+F:\Amozesh\Project\Common\obj\Debug\netcoreapp2.1\Common.pdb
+F:\Amozesh\Project\Common\obj\Debug\netcoreapp2.1\Common.csproj.AssemblyReference.cache
+F:\Amozesh\Project\Common\obj\Debug\netcoreapp2.1\Common.GeneratedMSBuildEditorConfig.editorconfig
